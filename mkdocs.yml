@@ -1,11 +1,11 @@
 site_name: VS Code startup documentation
 nav:
   - Home: "index.md"
-  - Managing Extensions: "extensions.md"
-  - Managing Settings: "settings.md"
-  - Starting Your FIrst Project: "setup.md"
-  - Troubleshooting: "troubleshooting.md"
-  - Glossary: "glossary.md"
+  - Managing Extensions: "pages/extensions.md"
+  - Managing Settings: "pages/settings.md"
+  - Starting Your FIrst Project: "pages/setup.md"
+  - Troubleshooting: "pages/troubleshooting.md"
+  - Glossary: "pages/glossary.md"
 
 
 repo_url: https://github.com/aye-ron98/UserGuide
