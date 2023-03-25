@@ -1,1 +1,125 @@
-site_name: My Docs
+site_name: VS Code startup documentation
+nav:
+  - Home: "index.md"
+  - Managing Extensions: "extensions.md"
+  - Managing Settings: "settings.md"
+  - Starting Your FIrst Project: "setup.md"
+  - Troubleshooting: "troubleshooting.md"
+  - Glossary: "glossary.md"
+
+
+repo_url: https://github.com/aye-ron98/UserGuide
+
+repo_name: aye-ron98/UserGuide
+
+
+markdown_extensions:
+  - toc:
+      toc_depth: 3
+  - attr_list
+  - footnotes
+  - admonition
+  - codehilite
+  - def_list
+  - pymdownx.critic:
+      mode: view
+  - pymdownx.betterem:
+      smart_enable: all
+
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.smartsymbols
+  - pymdownx.keys
+  - pymdownx.details
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.smartsymbols
+  - pymdownx.tabbed
+  - pymdownx.highlight:
+      #   linenums: true # Line numbering
+      linenums_style: pymdownx.inline
+      #   use_pygments: false
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+theme:
+  name: material
+
+  features:
+    # - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+
+  icon:
+    repo: fontawesome/brands/git-alt
+
+  # 404 page
+  static_templates:
+    - 404.html
+
+  palette:
+
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+  # Necessary for search to work properly
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/favicon.png
+  icon:
+    logo: logo
+
+
+
+# Plugins
+plugins:
+  - search:
+      lang: en
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tables.js
+  - javascripts/config.js
+
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/default.min.css
+  - stylesheets/extra.css
+
+extra:
+  social:
+
+
+    - icon: fontawesome/brands/github
+      link: https://github.com/megankuo/Express-User-Documentation
+      name: GitHub
+
+copyright: Copyright &copy; 2023 - Aron Zhang, Hanxiao Mao

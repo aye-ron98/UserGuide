@@ -6,7 +6,7 @@ Hello 👋, this guide will walk you through the steps for a proper set up of yo
 
 This documentation guide is intended for beginner developers who are intending to set up their first project.
 
-## Prerequisite Knowledge 
+## Prerequisite Knowledge
 
 This documentation assumes the following:
 
@@ -32,7 +32,9 @@ The main sections of this document are summarized below:
 
 1. Code snippets may be copied by clicking on the page icon in the upper top right hand corner. See the example below.
 
-``` { .js .annotate } git init ```
+``` { .js .annotate }
+    git init
+    ```
 
 2. Instructions that require you to run commands in terminal will be formatted as such:
 > run this command in terminal 
@@ -41,4 +43,14 @@ The main sections of this document are summarized below:
 
 This guide supports warring messages throughout to alert you to important relevant information. Each of the warnings, ranked by precedence:
 
-[comment]: <> (add warnings)
+!!! danger
+    Specifies actions that may cause an error or will cause the application to crash.
+
+!!! warning
+    Specifies content that must be read before proceeding.
+
+!!! Info
+    Indicates additional information or tips.
+
+!!! success
+    Indicates what success looks like.
