@@ -1,0 +1,37 @@
+# Overview
+
+You are a developer now! As such it is important to know how to navigate and work the many settings of [VS Code](https://code.visualstudio.com/learn). 
+
+This section will detail how to manipulate save settings and hotkey manipulation.
+
+## Customizing Hotkeys
+
+VS Code offers a variety of hotkeys to help you save time as you work. In this example we will be setting the hotkey _Alt + z_ to autoformat text.
+
+1. Open VS Code, from the landing page **select** the manage icon on the bottom of left navbar. A popup menu will appear
+
+2. From the popup select **key board shortcuts**. A new window will open present with all hotkeys VS Code offers.
+
+3. In the search bar type the following:
+
+```{.js .annotate}
+Terminal: Toggle size to content width
+```
+
+4. **Select** the shortcut from the search results. A popup window will appear prompting you to enter your desired shortcut.
+
+5. Type your shortcut in the popup text box and hit **enter** to save your changes. We recommend _Alt + Z_. 
+
+## Customizing Save Settings
+
+It is important to always save your work. Nothing is more frustrating than working an a problem for hours only to loose all your progress because you did not save. Luckily, VS Code offers autosave features customizable by time, and user actions.
+
+Here we will demonstrate how to customize your autosave to be preformed after switching to a new tab.
+
+1. Open VS Code, from the landing page **select** the manage icon on the bottom of left navbar. A popup menu will appear
+
+2. From the popup select **settings**. A new window will open present with save settings.
+
+3. **Select** the commonly used bar located under the user tab.
+
+4. Under _Files: Autosave_ **select** the dropdown menu and choose _OnFocusChange_.
