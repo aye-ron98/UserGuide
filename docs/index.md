@@ -34,10 +34,11 @@ The main sections of this document are summarized below:
 
 ``` { .js .annotate }
     git init
-    ```
+```
 
 2. Instructions that require you to run commands in terminal will be formatted as such:
-> run this command in terminal 
+
+> run this command in terminal
 
 ## Notes and Warning Messages
 
