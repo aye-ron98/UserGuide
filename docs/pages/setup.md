@@ -11,6 +11,7 @@ Before starting a project it is important to add it to a GitHub repo. This will 
 The following steps will guide you to creating a GitHub repo locally from VS Code.
 
 1. Open VS Code, from the upper navbar select **terminal** and open a new terminal. A powershell terminal will appear towards the bottom of the screen.
+<img src="../images/setup2.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;height:30%;max-height:200px">
 
 2. In the newly opened terminal type the following and press enter
 
@@ -32,7 +33,8 @@ When making a project, everything cannot be stored under one file! Follow the st
 
 Often when working on larger projects it is important to group similar files into folders for better organization. Follow the steps below to generate a new folder!
 
-1. Under the _explorer_ tab select the **new Folder** icon. A folder will appear.
+1. Under the _explorer_ tab select the **new Folder** icon. A folder will appear.<br>
+<img src="../images/setup1.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
 
 2. Name the folder. Hit enter to finalize any changes.
 
@@ -43,12 +45,16 @@ Sometimes throughout the course of your project files of folders become redundan
 1. Under the _explorer_ tab right click the file / folder you wish to delete. A menu will appear.
 
 2. In the new menu select **delete**. The file / folder is now deleted!
+<br>
+<img src="../images/setup3.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
 
 ## Pushing to GitHub
 
 After making changes to your project it is time to push your changes to GitHub. This allows for a backup of your work to be saved on the web and if collaborating with others, your peers to also see the changes you made. Follow the steps below to push your changes to GitHub!
 
 1. Open VS Code, from the upper navbar select **terminal** and open a new terminal. A powershell terminal will appear towards the bottom of the screen.
+<br>
+<img src="../images/setup4.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;height:30%;max-height:200px">
 
 2. In the newly opened terminal type the following and press enter.
 
