@@ -17,6 +17,11 @@ markdown_extensions:
 
 theme:
   name: material
+  icon: 
+    admonition:
+      info: fontawesome/solid/circle-info
+      warning: fontawesome/solid/triangle-exclamation
+      success: fontawesome/solid/check
 
   features:
     - navigation.sections
