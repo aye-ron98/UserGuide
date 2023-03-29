@@ -8,19 +8,23 @@ This section will detail how to manipulate save settings and hotkey manipulation
 
 VS Code offers a variety of hotkeys to help you save time as you work. In this example we will be setting the hotkey _Alt + z_ to autoformat text.
 
-1. Open VS Code, from the landing page **select** the manage icon on the bottom of left navbar. A popup menu will appear
+1. Open VS Code, from the landing page **select** the manage icon on the bottom of left navbar. 
+<img src="../images/setting0.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
 
 2. Select **key board shortcuts** from the popup. A new window will open present with all hotkeys VS Code offers.
-
+<img src="../images/setting1.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
 3. Type the following in the search bar:
 
 ```{.js .annotate}
 Terminal: Toggle size to content width
 ```
+<img src="../images/setting2.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
 
 4. **Select** the shortcut from the search results. A popup window will appear prompting you to enter your desired shortcut.
+<img src="../images/setting3.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
 
 5. Type your shortcut in the popup text box and hit **enter** to save your changes. We recommend _Alt + Z_. 
+<img src="../images/setting4.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
 
 ## Customizing Save Settings
 
@@ -29,9 +33,13 @@ It is important to always save your work. Nothing is more frustrating than worki
 Here we will demonstrate how to customize your autosave to be preformed after switching to a new tab.
 
 1. Open VS Code, from the landing page **select** the manage icon on the bottom of left navbar. A popup menu will appear
+<img src="../images/setting0.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
 
 2. Select **settings** from the popup. A new window will open present with save settings.
+<img src="../images/setting5.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
 
 3. **Select** the commonly used bar located under the user tab.
+<img src="../images/setting6.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
 
 4. **Select** the dropdown menu under _Files: Autosave_ and choose _OnFocusChange_.
+<img src="../images/setting7.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
