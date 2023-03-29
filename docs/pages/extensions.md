@@ -15,7 +15,7 @@ VS Code makes installing extensions simple! Follow the steps below to begin now.
 3. Click on the extension you wish to download.
 
 4. Click the **install** button. Congratulations! 🎉 You've installed an extension.
-<img src="../images/extension2.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;height:30%;max-height:600px">
+<img src="../images/extension2.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;height:20%;max-height:250px">
 
 ## Uninstalling Extensions
 
@@ -31,4 +31,4 @@ Occasionally, extensions become [depreciated](https://code.visualstudio.com/upda
 <img src="../images/extension5.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:600px">
 
 4. Select the extension and hit **uninstall**. 
-<img src="../images/extension6.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;height:30%;max-height:600px">
+<img src="../images/extension6.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;height:20%;max-height:250px">
