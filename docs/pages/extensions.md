@@ -11,8 +11,9 @@ VS Code makes installing extensions simple! Follow the steps below to begin now.
 !!! info "Info"
     The extensions tab may also be accessed by typing Ctrl + Shift + X on the keyboard.
 
-<img src="../images/extension1.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:600px">
-
+<figure markdown>  
+    <img src="../images/extension1.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:600px">
+</figure>
 
 2. Search for the extension you want using the _search bar_ located at the top of the newly formed extension tab.
 <img src="../images/extension3.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:600px">
