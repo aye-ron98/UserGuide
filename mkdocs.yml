@@ -12,6 +12,9 @@ repo_url: https://github.com/aye-ron98/UserGuide
 
 repo_name: aye-ron98/UserGuide
 
+markdown_extensions:
+  - admonition
+
 theme:
   name: material
 

@@ -46,16 +46,13 @@ The main sections of this document are summarized below:
 
 ## Notes and Warning Messages
 
-This guide supports warring messages throughout to alert you to important relevant information. Each of the warnings, ranked by precedence:
+This guide supports waring messages and notes throughout to alert you to important relevant information. Each of the warnings, and notes are demonstrated below:
 
-!!! danger
+!!! Failure "Warining"
     Specifies actions that may cause an error or will cause the application to crash.
 
-!!! warning
+!!! Success "Success"
     Specifies content that must be read before proceeding.
 
-!!! Info
+!!! Note "Note"
     Indicates additional information or tips.
-
-!!! success
-    Indicates what success looks like.
