@@ -2,6 +2,7 @@
 |----------|-------------|
 | Command Line | A text-based user interface to the computer |
 | Directory | The current file that the VS Code app is opened in. |
+| GitHub Repository | A file storing your project on GitHub. |
 | Hot Key | A keyboard shortcut to a VS Code command. |
 | Landing Page | The first page shown then opening VS Code. |
 | Menu | List of commands offered by VS Code. |
