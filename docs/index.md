@@ -10,8 +10,8 @@ This documentation guide is intended for beginner developers who are intending t
 
 This documentation assumes the following:
 
-- Working knowledge of the git command line and Github
-- Command line commands
+- Working knowledge of git and Github
+- Working knowledge of the command line
 
 ## Software Requirements
 
