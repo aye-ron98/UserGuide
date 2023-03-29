@@ -10,9 +10,9 @@ VS Code offers a variety of hotkeys to help you save time as you work. In this e
 
 1. Open VS Code, from the landing page **select** the manage icon on the bottom of left navbar. A popup menu will appear
 
-2. From the popup select **key board shortcuts**. A new window will open present with all hotkeys VS Code offers.
+2. Select **key board shortcuts** from the popup. A new window will open present with all hotkeys VS Code offers.
 
-3. In the search bar type the following:
+3. Type the following in the search bar:
 
 ```{.js .annotate}
 Terminal: Toggle size to content width
@@ -30,8 +30,8 @@ Here we will demonstrate how to customize your autosave to be preformed after sw
 
 1. Open VS Code, from the landing page **select** the manage icon on the bottom of left navbar. A popup menu will appear
 
-2. From the popup select **settings**. A new window will open present with save settings.
+2. Select **settings** from the popup. A new window will open present with save settings.
 
 3. **Select** the commonly used bar located under the user tab.
 
-4. Under _Files: Autosave_ **select** the dropdown menu and choose _OnFocusChange_.
+4. **Select** the dropdown menu under _Files: Autosave_ and choose _OnFocusChange_.
