@@ -41,10 +41,6 @@ Here we will demonstrate how to customize your autosave to be preformed after sw
 2. Select **settings** from the popup menu. A new window will open present with save settings.
 <img src="../images/setting5.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
 
-3. **Select** the commonly used bar located under the user tab.
-<img src="../images/setting6.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
-Off is the default option that will disable autosave.
+3. **Select** the commonly used bar located under the user tab.<img src="../images/setting6.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">Off is the default option that will disable autosave.
 
-4. **Select** the dropdown menu under _Files: Autosave_ and choose _OnFocusChange_.
-<img src="../images/setting7.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
-onFocusChange auto-saves files both when you switch windows on your computer and when you switch tabs within VSCode.
+4. **Select** the dropdown menu under _Files: Autosave_ and choose _OnFocusChange_.<img src="../images/setting7.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">onFocusChange auto-saves files both when you switch windows on your computer and when you switch tabs within VSCode.
