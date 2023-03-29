@@ -25,8 +25,8 @@ Congratulations! You have just set a new repo up to you GitHub!
 
 When making a project, everything cannot be stored under one file! Follow the steps below to generate a new file.
 
-1. Under the _explorer_ tab select the **new File** icon. A new blank file will appear.
-
+1. Under the _explorer_ tab select the **new File** icon. A new blank file will appear.<br>
+<img src="../images/setup1.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
 2. Name the file and add an extension. Hit enter to finalize any changes.
 
 ## Adding Folders
@@ -34,7 +34,7 @@ When making a project, everything cannot be stored under one file! Follow the st
 Often when working on larger projects it is important to group similar files into folders for better organization. Follow the steps below to generate a new folder!
 
 1. Under the _explorer_ tab select the **new Folder** icon. A folder will appear.<br>
-<img src="../images/setup1.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
+<img src="../images/setup5.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
 
 2. Name the folder. Hit enter to finalize any changes.
 
