@@ -1,5 +1,6 @@
 | **Term**   |      **Definition**      |
 |----------|-------------|
+| Command Line | A text-based user interface to the computer |
 | Directory | The current file that the VS Code app is opened in. |
 | Hot Key | A keyboard shortcut to a VS Code command. |
 | Landing Page | The first page shown then opening VS Code. |
