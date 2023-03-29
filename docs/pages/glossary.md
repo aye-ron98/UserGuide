@@ -1,6 +1,7 @@
 | **Term**   |      **Definition**      |
 |----------|-------------|
 | Command Line | A text-based user interface to the computer |
+| File Extension| The suffix at the end of the computer file. Indicates a characteristic of a file. |
 | Directory | The current file that the VS Code app is opened in. |
 | GitHub Repository | A file storing your project on GitHub. |
 | Hot Key | A keyboard shortcut to a VS Code command. |
