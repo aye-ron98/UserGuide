@@ -24,9 +24,9 @@ Before proceeding ensure that you have the following installed:
 
 The main sections of this document are summarized below:
 
-- [Managing extensions](/docs/extensions.md)
-- [Basic Settings](/docs/settings.md)
-- [Setting up your first project!](/docs/setup.md)
+- [Managing extensions](/docs/pages/extensions.md)
+- [Basic Settings](/docs/pages/settings.md)
+- [Setting up your first project!](/docs/pages/setup.md)
 
 ## Typographic Convention  
 
@@ -41,6 +41,8 @@ The main sections of this document are summarized below:
 > run this command in terminal
 
 3. CLick actions will be directed by the use of **bold** font.
+
+4. References to action areas, such as textboxes, and popup windows will be _italicized_.
 
 ## Notes and Warning Messages
 
