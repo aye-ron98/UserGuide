@@ -48,11 +48,11 @@ The main sections of this document are summarized below:
 
 This guide supports waring messages and notes throughout to alert you to important relevant information. Each of the warnings, and notes are demonstrated below:
 
-!!! Failure "Warining"
-    Specifies actions that may cause an error or will cause the application to crash.
+!!! Warning "Warining"
+    Specifies actions that may lead to failure of the task if not followed properly.
 
 !!! Success "Success"
-    Specifies content that must be read before proceeding.
+    Specifies what successful completion of a step looks like.
 
-!!! Note "Note"
-    Indicates additional information or tips.
+!!! Info "Note"
+    Indicated additional information or tips.
