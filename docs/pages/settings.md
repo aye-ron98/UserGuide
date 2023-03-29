@@ -39,5 +39,7 @@ Here we will demonstrate how to customize your autosave to be preformed after sw
 <img src="../images/setting5.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
 
 3. **Select** the commonly used bar located under the user tab.
+<img src="../images/setting6.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
 
 4. **Select** the dropdown menu under _Files: Autosave_ and choose _OnFocusChange_.
+<img src="../images/setting7.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
