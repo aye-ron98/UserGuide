@@ -1,5 +1,6 @@
 | **Term**   |      **Definition**      |
 |----------|-------------|
+| Directory | The current file that the VS Code app is opened in. |
 | Hot Key | A keyboard shortcut to a VS Code command. |
 | Landing Page | The first page shown then opening VS Code. |
 | Menu | List of commands offered by VS Code. |
