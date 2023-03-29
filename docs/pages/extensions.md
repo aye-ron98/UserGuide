@@ -31,4 +31,4 @@ Occasionally, extensions become [depreciated](https://code.visualstudio.com/upda
 <img src="../images/extension5.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:600px">
 
 4. Select the extension and hit **uninstall**. 
-<img src="../images/extension6.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;height:20%;max-height:250px">
+<img src="../images/extension6.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;height:20%;max-height:150px">
