@@ -24,9 +24,9 @@ Before proceeding ensure that you have the following installed:
 
 The main sections of this document are summarized below:
 
-- [Managing extensions](/docs/pages/extensions.md)
-- [Basic Settings](/docs/pages/settings.md)
-- [Setting up your first project!](/docs/pages/setup.md)
+- [Managing extensions](./pages/extensions.md)
+- [Basic Settings](./pages/settings.md)
+- [Setting up your first project!](./pages/setup.md)
 
 ## Typographic Convention  
 
