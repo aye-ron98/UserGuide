@@ -9,33 +9,48 @@ This section will detail how to manipulate save settings and hotkey manipulation
 VS Code offers a variety of hotkeys to help you save time as you work. In this example we will be setting the hotkey _Alt + z_ to autoformat text.
 
 1. Open VS Code, from the landing page **select** the manage icon on the bottom of left navbar.
-<img src="../images/setting0.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
+
+    <figure marksdown>
+        <img src="../images/setting0.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
+    </figure>
 
 2. Select **key board shortcuts** from the popup. A new window will open present with all hotkeys VS Code offers.
 
-!!! info "info"
-    This step may be access directly by typing Ctrl + K Ctrl + S on your keyboard.
+    !!! info "info"
+        This step may be accessed directly by typing Ctrl + K Ctrl + S on your keyboard.
 
-<img src="../images/setting1.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
-You can manage all the hotkeys on this window, and check the hotkeys for your current OS.
+    <figure markdown>
+        <img src="../images/setting1.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
+    </figure>
+
+    You can manage all the hotkeys on this window, and check the hotkeys for your current OS.
 
 3. Type the following in the search bar:
 
-```{.js .annotate}
-Terminal: Toggle size to content width
-```
-<img src="../images/setting2.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
-Toggle size to content width helps you autoformat your text to fit your current window size.
+    ```{.js .annotate}
+    Terminal: Toggle size to content width
+    ```
+
+    <figure markdown>
+        <img src="../images/setting2.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
+    </figure>
+
+    Toggle size to content width helps you autoformat your text to fit your current window size.
 
 4. **Select** the hot key from the search results. A popup _window_ will appear prompting you to enter your desired hot key.
-<img src="../images/setting3.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
+
+    <figure markdown>
+        <img src="../images/setting3.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
+    </figure>
 
 5. Type your hot key in the popup text box and hit **enter** to save your changes. We recommend _Alt + Z_.
 
-!!! "info"
-    If the hotkey you wish to use is already in use by another setting, VS Code with prompt you with a warning you before saving any changes.
+    !!! "info"
+        If the hotkey you wish to use is already in use by another setting, VS Code with prompt you with a warning you before saving any changes.
 
-<img src="../images/setting4.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
+    <figure markdown>
+        <img src="../images/setting4.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
+    </figure>
 
 ## Customizing Save Settings
 
@@ -44,19 +59,30 @@ It is important to always save your work. Nothing is more frustrating than worki
 Here we will demonstrate how to customize your autosave to be preformed after switching to a new tab.
 
 1. Open VS Code, from the landing page **select** the _manage_ icon on the bottom of left navbar. A popup _menu_ will appear as the image below.
-<img src="../images/setting0.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
+
+    <figure markdown>
+        <img src="../images/setting0.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
+    </figure>
 
 2. Select **settings** from the popup menu. A new window will open present with save settings.
+    !!! info "info"
+        This step may be accessed directly by typing Ctrl+ on your keyboard.
 
-!!! info "info"
-    This step may be accessed directly by typing Ctrl+ on your keyboard.
-
-<img src="../images/setting5.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
+    <figure markdown>
+        <img src="../images/setting5.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
+    </figure>
 
 3. **Select** the _commonly used_ bar located under the user tab.
-<img src="../images/setting6.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
-Off is the default option that will disable autosave.
+
+    <figure markdown>
+            <img src="../images/setting6.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
+    </figure>
+
+    Off is the default option that will disable autosave.
 
 4. **Select** the dropdown menu under _Files: Autosave_ and choose _OnFocusChange_.
-<img src="../images/setting7.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
-onFocusChange auto-saves files both when you switch windows on your computer and when you switch tabs within VSCode.
+
+    <figure markdown>
+        <img src="../images/setting7.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
+    </figure>
+    onFocusChange auto-saves files both when you switch windows on your computer and when you switch tabs within VSCode.
