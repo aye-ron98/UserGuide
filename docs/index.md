@@ -32,15 +32,15 @@ The main sections of this document are summarized below:
 
 1. Code snippets may be copied by clicking on the page icon in the upper top right hand corner. See the example below.
 
-``` { .js .annotate }
-    git init
-```
+    ``` { .js .annotate }
+        git init
+    ```
 
 2. Instructions that require you to run commands in terminal will be formatted as such:
 
-> run this command in terminal
+    > run this command in terminal
 
-3. CLick actions will be directed by the use of **bold** font.
+3. Click actions will be directed by the use of **bold** font.
 
 ## Notes and Warning Messages
 

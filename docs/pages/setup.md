@@ -16,7 +16,7 @@ The following steps will guide you to creating a GitHub repository locally from 
         A new Terminal may also be opened by typing Ctrl + Shift + ` on the keyboard.
 
     <figure markdown>
-        <img src="../images/setup2.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;height:30%;max-height:200px">
+        <img src="../images/setup2.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto; max-height:150px">
     </figure>
 
 2. Type the following and press enter in the newly opened _terminal_.
@@ -28,6 +28,8 @@ The following steps will guide you to creating a GitHub repository locally from 
     git init
     ```
 
+    The `git init` command tells git to turn the current directory open in the terminal window into a GitHub repository. Successful completion will be followed by a completion message in the terminal window.
+
 Congratulations! You have just set a new repo up to you GitHub!
 
 ## Adding Files to your project
@@ -37,7 +39,7 @@ When making a project, everything cannot be stored under one file! Follow the st
 1. Select the **new File** icon under the _explorer_ tab. A new blank file will appear.
 
     <figure markdown>
-        <img src="../images/setup1.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
+        <img src="../images/setup1.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto; max-width:350px">
     </figure>
 
 2. Name the file and add an extension. Hit enter to finalize any changes.
@@ -52,7 +54,7 @@ Often when working on larger projects it is important to group similar files int
 1. Select the **new Folder** icon under the _explorer_ tab. A folder will appear.
 
     <figure markdown>
-        <img src="../images/setup5.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
+        <img src="../images/setup5.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto; max-width: 350px">
     </figure>
 
 2. Name the folder. Hit enter to finalize any changes.
@@ -72,7 +74,7 @@ Sometimes throughout the course of your project files of folders become redundan
         When deleting a file / folder VS Code deletes the file / folder permanently. Double check your actions before deleting.
 
     <figure markdown>
-        <img src="../images/setup3.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
+        <img src="../images/setup3.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto; max-width:350px">
     </figure>
 
 ## Pushing to GitHub
@@ -85,7 +87,7 @@ After making changes to your project it is time to push your changes to GitHub. 
         A new Terminal may also be opened by typing Ctrl + Shift + ` on the keyboard.
 
     <figure markdown>
-        <img src="../images/setup4.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;height:30%;max-height:200px">
+        <img src="../images/setup4.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto; max-height: 200px">
     </figure>
 
 2. Type the following in the newly opened terminal and press enter.
@@ -94,7 +96,7 @@ After making changes to your project it is time to push your changes to GitHub. 
     git add .
     ```
 
-    This command will let git know which files to push to GitHub
+    This command will let git know which files to push to GitHub.
 
     !!! warning "Warning"
         Ensure the terminal window is opened within the root directory of your project or git commands may not work.
@@ -114,6 +116,6 @@ After making changes to your project it is time to push your changes to GitHub. 
     ```
 
     !!! warning "Warning" 
-        Ensure that your local project copy is up to date before pushing.
+        Ensure that your local project copy is up to date before pushing to GitHub.
 
     Congratulations! You have successfully pushed your changes onto GitHub!

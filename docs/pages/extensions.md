@@ -13,14 +13,14 @@ VS Code makes installing extensions simple! Follow the steps below to begin now.
         The extensions tab may also be accessed by typing Ctrl + Shift + X on the keyboard.
 
     <figure markdown>  
-        <img src="../images/extension1.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:600px">
+        <img src="../images/extension1.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto; max-width: 250px">
     </figure>
 
 
 2. Search for the extension you want using the _search bar_ located at the top of the newly formed extension tab.
 
     <figure markdown>
-        <img src="../images/extension3.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:600px">
+        <img src="../images/extension3.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto; max-width: 250px">
     </figure>
 
 3. Click on the extension you wish to download.
@@ -28,7 +28,9 @@ VS Code makes installing extensions simple! Follow the steps below to begin now.
 4. Click the **install** button. Congratulations! 🎉 You've installed an extension.
 
     !!! success "Success"
-        <img src="../images/extension2.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;height:20%;max-height:250px">
+        <figure markdown>
+            <img src="../images/extension2.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto; max-width: 400px">
+        </figure>
 
 ## Uninstalling Extensions
 
@@ -40,22 +42,24 @@ Occasionally, extensions become [depreciated](https://code.visualstudio.com/upda
         The extensions tab may also be accessed by typing Ctrl + Shift + X on the keyboard.
 
     <figure markdown>
-        <img src="../images/extension1.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:600px">
+        <img src="../images/extension1.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto; max-width: 250px">
     </figure>
 
 2. Search for the extension you want using the search bar located at the top of the newly formed _extension tab_.
 
     <figure markdown>
-        <img src="../images/extension4.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:600px">
+        <img src="../images/extension4.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto; max-width: 250px">
     </figure>
 
 3. Find the extension you wish to uninstall under the _installed_ tab.
 
     <figure markdown>
-        <img src="../images/extension5.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:600px">
+        <img src="../images/extension5.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto; max-width: 250px">
     </figure>
 
-4. Select the extension and click **uninstall**.
+4. Select the extension and click **uninstall**. Successful uninstallation of the extension will be complete after restarting the VS Code app.
 
     !!! success "Success"
-        <img src="../images/extension6.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;height:20%;max-height:150px">
+        <figure markdown>
+            <img src="../images/extension6.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto; max-width: 400px">
+        </figure>
