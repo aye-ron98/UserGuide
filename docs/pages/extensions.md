@@ -25,7 +25,6 @@ VS Code makes installing extensions simple! Follow the steps below to begin now.
 
 3. Click on the extension you wish to download.
 
-
 4. Click the **install** button. Congratulations! 🎉 You've installed an extension.
 
     !!! success "Success"

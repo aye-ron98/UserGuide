@@ -12,19 +12,21 @@ The following steps will guide you to creating a GitHub repository locally from 
 
 1. Open VS Code, from the upper navbar select **terminal** and open a new terminal. A _terminal_ will appear towards the bottom of the screen.
 
-!!! info "Info"
-    A new Terminal may also be opened by typing Ctrl + Shift + ` on the keyboard.
+    !!! info "Info"
+        A new Terminal may also be opened by typing Ctrl + Shift + ` on the keyboard.
 
-<img src="../images/setup2.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;height:30%;max-height:200px">
+    <figure markdown>
+        <img src="../images/setup2.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;height:30%;max-height:200px">
+    </figure>
 
 2. Type the following and press enter in the newly opened _terminal_.
 
-!!! warning "Warining"
-    Ensure the terminal window is opened into the directory of your project or you will not publish the correct files to GitHub.
+    !!! warning "Warining"
+        Ensure the terminal window is opened into the directory of your project or you will not publish the correct files to GitHub.
 
-```{.js .annotate}
-git init
-```
+    ```{.js .annotate}
+    git init
+    ```
 
 Congratulations! You have just set a new repo up to you GitHub!
 
@@ -32,25 +34,31 @@ Congratulations! You have just set a new repo up to you GitHub!
 
 When making a project, everything cannot be stored under one file! Follow the steps below to generate a new file.
 
-1. Select the **new File** icon under the _explorer_ tab. A new blank file will appear.<br>
-<img src="../images/setup1.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
+1. Select the **new File** icon under the _explorer_ tab. A new blank file will appear.
+
+    <figure markdown>
+        <img src="../images/setup1.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
+    </figure>
 
 2. Name the file and add an extension. Hit enter to finalize any changes.
 
-!!! warning "Warning"
-    Ensure you use the correct file extensions or your project will not work properly.
+    !!! warning "Warning"
+        Ensure you use the correct file extensions or your project will not work properly.
 
 ## Adding Folders
 
 Often when working on larger projects it is important to group similar files into folders for better organization. Follow the steps below to generate a new folder!
 
-1. Select the **new Folder** icon under the _explorer_ tab. A folder will appear.<br>
-<img src="../images/setup5.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
+1. Select the **new Folder** icon under the _explorer_ tab. A folder will appear.
+
+    <figure markdown>
+        <img src="../images/setup5.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
+    </figure>
 
 2. Name the folder. Hit enter to finalize any changes.
 
-!!! warning "Warning"
-    When moving files into folders ensure that the file paths are updated relative to the new folder.
+    !!! warning "Warning"
+        When moving files into folders ensure that the file paths are updated relative to the new folder.
 
 ## Deleting Files / Folders
 
@@ -60,11 +68,12 @@ Sometimes throughout the course of your project files of folders become redundan
 
 2. Select **delete** in the new menu. The file / folder is now deleted!
 
-!!! warning "Warning"
-    When deleting a file / folder VS Code deletes the file / folder permanently. Double check your actions before deleting.
+    !!! warning "Warning"
+        When deleting a file / folder VS Code deletes the file / folder permanently. Double check your actions before deleting.
 
-<br>
-<img src="../images/setup3.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
+    <figure markdown>
+        <img src="../images/setup3.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;width:30%;max-width:500px">
+    </figure>
 
 ## Pushing to GitHub
 
@@ -72,37 +81,39 @@ After making changes to your project it is time to push your changes to GitHub. 
 
 1. Open VS Code, from the upper navbar select **terminal** and open a new terminal. A _terminal_ will appear towards the bottom of the screen.
 
-!!! info "Info"
-    A new Terminal may also be opened by typing Ctrl + Shift + ` on the keyboard.
-<br>
-<img src="../images/setup4.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;height:30%;max-height:200px">
+    !!! info "Info"
+        A new Terminal may also be opened by typing Ctrl + Shift + ` on the keyboard.
+
+    <figure markdown>
+        <img src="../images/setup4.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto;height:30%;max-height:200px">
+    </figure>
 
 2. Type the following in the newly opened terminal and press enter.
 
-```{.js .annotate}
-git add .
-```
+    ```{.js .annotate}
+    git add .
+    ```
 
-This command will let git know which files to push to GitHub
+    This command will let git know which files to push to GitHub
 
-!!! warning "Warning"
-    Ensure the terminal window is opened within the root directory of your project or git commands may not work.
+    !!! warning "Warning"
+        Ensure the terminal window is opened within the root directory of your project or git commands may not work.
 
 3. Type the following into the terminal
 
-```{.js .annotate}
-git commit -m"my first commit"
-```
+    ```{.js .annotate}
+    git commit -m"my first commit"
+    ```
 
-This command will add a helpful comment to describe the changes made. Replace _"my first commit"_ with a helpful message detailing what changes you made.
+    This command will add a helpful comment to describe the changes made. Replace _"my first commit"_ with a helpful message detailing what changes you made.
 
 4. Type the following into the terminal
 
-```{.js .annotate}
-git push
-```
+    ```{.js .annotate}
+    git push
+    ```
 
-!!! warning "Warning" 
-    Ensure that your local project copy is up to date before pushing.
+    !!! warning "Warning" 
+        Ensure that your local project copy is up to date before pushing.
 
-Congratulations! You have successfully pushed your changes onto GitHub!
+    Congratulations! You have successfully pushed your changes onto GitHub!

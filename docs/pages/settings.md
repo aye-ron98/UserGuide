@@ -45,7 +45,7 @@ VS Code offers a variety of hotkeys to help you save time as you work. In this e
 
 5. Type your hot key in the popup text box and hit **enter** to save your changes. We recommend _Alt + Z_.
 
-    !!! "info"
+    !!! info "info"
         If the hotkey you wish to use is already in use by another setting, VS Code with prompt you with a warning you before saving any changes.
 
     <figure markdown>
