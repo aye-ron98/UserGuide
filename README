@@ -1,1 +1,22 @@
+# Overview of VS Code user guide
+
+This user guide will guide you through some basic set up for the VS Code app.
+
+The goal here is to demonstrate some of the basic features offered by VS Code, such as extensions, linking to git, and save settings to help you develop great projects in the future!
+
+The following will be covered in this document:
+
+- managing extensions
+- managing save settings
+- managing hotkeys
+- basic setup of your first project
+
+## Collaboration
+
+This user guide was written in a team of two during lecture and lab time of COMP 2216 - Communications. Communication was was established through Discord.
+
+Git and Github was used to facilitate collaboration in writing this user guide. Each page was assigned to one team member to complete to prevent git conflicts.
+
+## Creating our Guide
+
 
