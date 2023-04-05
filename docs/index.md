@@ -4,7 +4,7 @@ Hello 👋, this guide will walk you through the steps for a proper set up of yo
 
 ## Intended Users
 
-This documentation guide is intended for beginner developers who are intending to set up their first project.
+This documentation guide is intended for beginner developers who are intending to set up their first project and publish it to GitHub.
 
 ## Prerequisite Knowledge
 
@@ -12,6 +12,7 @@ This documentation assumes the following:
 
 - Working knowledge of git and Github
 - Working knowledge of the command line
+- User has a GitHub account
 
 ## Software Requirements
 
@@ -41,16 +42,17 @@ The main sections of this document are summarized below:
     > run this command in terminal
 
 3. Click actions will be directed by the use of **bold** font.
+4. Attention to elements on screen will be directed by _italicized_ words.
 
 ## Notes and Warning Messages
 
-This guide supports waring messages and notes throughout to alert you to important relevant information. Each of the warnings, and notes are demonstrated below:
+This guide supports waring messages and notes throughout to alert you to important relevant information. Each of the warnings, success states, and notes are demonstrated below:
 
 !!! Warning "Warning"
     Specifies actions that may lead to failure of the task if not followed properly.
 
 !!! Success "Success"
-    Specifies what successful completion of a step looks like.
+    Specifies what successful completion of a task looks like.
 
 !!! Info "Note"
-    Indicate additional information or tips.
+    Indicates additional information or tips.
