@@ -1,6 +1,6 @@
 | **Term**   |      **Definition**      |
 |----------|-------------|
-| Command Line | A text-based user interface to the computer |
+| Command Line | A text-based user interface to the computer. |
 | Element | A page, pop up, or button of the VS Code app. |
 | File Extension| The suffix at the end of the computer file. Indicates a characteristic of a file. |
 | Directory | The current folder that the VS Code app is opened in. |
