@@ -53,4 +53,4 @@ This guide supports waring messages and notes throughout to alert you to importa
     Specifies what successful completion of a step looks like.
 
 !!! Info "Note"
-    Indicated additional information or tips.
+    Indicate additional information or tips.

@@ -19,4 +19,47 @@ Git and Github was used to facilitate collaboration in writing this user guide. 
 
 ## Creating our Guide
 
+This guide was written with reference to the official [VS Code](https://code.visualstudio.com/docs) documentation. The steps chosen were specifically tailors to our experiences term 1 classes of the CST program. These instructions are meant to be brief and precise to help future CST students start coding quickly.
 
+### MK Docs
+
+This user guide was created using MKDocs, specifically the [material theme](https://squidfunk.github.io/mkdocs-material/). On top of the base theme additional plugins were installed for extra functionally. A full list of our plugins can be referenced [here](https://github.com/aye-ron98/UserGuide/blob/main/mkdocs.yml).
+
+### MarkDown
+
+MK Docs builds static webpages using [markdown](https://www.markdownguide.org/getting-started/). Markdown was introduced to us in term 1 of the CST program to write project README files. Over the course of writing this user guide we have learned to use more of the functionalities inherit to markdown.
+
+### Best practices for writing user guides
+
+Over the course of COMM 1116 and COMM 2216 - Communications, we learned the importance of the [seven Cs of communication](https://www.mindtools.com/a5xap8q/the-7-cs-of-communication). Using these writing guidelines, and basic [user heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) of website design, we wrote this user guide for maximum readability.
+
+### Readability
+
+One challenge in writing user guides is properly conveying large amounts of information over text. To maximize clarity at every step, we decided to include images where relaxant to help guide user attention. Areas where user attention was deemed necessary include
+
+- actions involving large selection menus,
+- actions requiring user input, and
+- actions where user interaction with buttons are required.
+
+MK Docs includes a convenient admonition feature that enabled us to include additional information throughout the guide to help users complete their tasks. The images below highlight the admonitions used in this guide.
+
+To specify additional information that make aid users such as shortcuts.
+![note admonition](./docs/pages/images/note.jpg)
+
+To specify successful completion of a task.
+![success admonition](./docs/pages/images/success.jpg)
+
+To specify the following content is important to success of the operation.
+![warning admonition](./docs/pages/images/warning.jpg)
+
+## Headings
+
+Due to the reach of the topics covered in this user guide we opened to use different headings to group related information together.
+
+## Conclusion
+
+In producing this user guide we aim to demonstrate our knowledge of technical writing; demonstrating our knowledge of the seven Cs of communication in addition to proper user guide design.
+
+We hope this guide satisfies basic questions that we shared in our first term of the CST program, and that in writing this, we can demonstrate our mastery of the VS Code application.
+
+We hope this user guide can help future CST students in both starting the program, and building your first project.
