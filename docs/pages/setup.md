@@ -7,7 +7,7 @@ In this sections we will cover:
 - [Starting a project from your local computer](./setup.md#starting-a-project-from-local-computer)
 - [Adding files to your project](./setup.md#adding-files-to-your-project)
 - [Adding folders to your project](./setup.md#adding-folders)
-- [Delete files / folders](./setup.md#deleting-files--folders)
+- [Delete files / folders](./setup.md#deleting-files-folders)
 - [Pushing to GitHub](./setup.md#pushing-to-github)
 
 ## Starting a project from local computer
