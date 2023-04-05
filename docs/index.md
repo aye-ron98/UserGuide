@@ -1,6 +1,6 @@
 # Introduction
 
-Hello 👋, this guide will walk you through the steps for a proper set up of your Visual Studio Code for your programming career. The aim is to help you introduce you to basic functions that are essential for staring your first project!
+Hello 👋, this guide will walk you through the steps for a proper set up of your Visual Studio Code application for your programming career. The aim is to introduce you to basic functions that are essential for staring your first project!
 
 ## Intended Users
 
@@ -46,7 +46,7 @@ The main sections of this document are summarized below:
 
 This guide supports waring messages and notes throughout to alert you to important relevant information. Each of the warnings, and notes are demonstrated below:
 
-!!! Warning "Warining"
+!!! Warning "Warning"
     Specifies actions that may lead to failure of the task if not followed properly.
 
 !!! Success "Success"
