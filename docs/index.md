@@ -1,10 +1,10 @@
 # Introduction
 
-Hello 👋, this guide will walk you through the steps for a proper set up of your Visual Studio Code application for your programming career. The aim is to introduce you to basic functions that are essential for staring your first project!
+Hello 👋, this user guide will walk you through the steps for a proper set up of your Visual Studio Code application for your programming career. The aim is to introduce you to basic functions that are essential for staring your first project!
 
 ## Intended Users
 
-This documentation guide is intended for beginner developers who are intending to set up their first project and publish it to GitHub.
+This user guide is intended for beginner developers who are intending to set up their first project and publish it to GitHub.
 
 ## Prerequisite Knowledge
 
@@ -31,7 +31,7 @@ The main sections of this document are summarized below:
 
 ## Typographic Convention  
 
-1. Code snippets may be copied by clicking on the page icon in the upper top right hand corner. See the example below.
+1. Code snippets may be copied by clicking on the page icon in the right hand corner of the back text box. See the example below.
 
     ``` { .js .annotate }
         git init
