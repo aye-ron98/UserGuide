@@ -365,6 +365,13 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#conclusion" class="md-nav__link">
+    Conclusion
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -423,29 +430,37 @@
 
 <h1 id="overview">Overview</h1>
 <p>So you want to start your first project. Luckily VS Code may be easily linked to <a href="https://github.com/">GitHub</a> to ensure your changes are tracked and collaborating made easy!</p>
-<p>Follow the steps below to start a project and upload the repository to your GitHub!</p>
+<p>In this sections we will cover:</p>
+<ul>
+<li><a href="./#starting-a-project-from-local-computer">Starting a project from your local computer</a></li>
+<li><a href="./#adding-files-to-your-project">Adding files to your project</a></li>
+<li><a href="./#adding-folders">Adding folders to your project</a></li>
+<li><a href="./#deleting-files--folders">Delete files / folders</a></li>
+<li><a href="./#pushing-to-github">Pushing to GitHub</a></li>
+</ul>
 <h2 id="starting-a-project-from-local-computer">Starting a project from local computer</h2>
-<p>Before starting a project it is important to add it to a GitHub repository. This will allow for any backups to be recovered in the event your local computer is compromised. There is also the added benefit of easy collaboration!</p>
+<p>Before starting a project it is important to add it to a GitHub repository. This will allow for any backups to be recovered in the event your local computer is compromised. There is also the added benefit of easy collaboration with anyone added to your GitHub repository!</p>
 <p>The following steps will guide you to creating a GitHub repository locally from VS Code.</p>
 <ol>
 <li>
-<p>Open VS Code, from the upper navbar select <strong>terminal</strong> and open a new terminal. A <em>terminal</em> will appear towards the bottom of the screen.</p>
+<p>Open VS Code, from the upper navbar <strong>click</strong> terminal and open a new terminal. A <em>terminal</em> will appear towards the bottom of the screen.</p>
 <div class="admonition info">
 <p class="admonition-title">Info</p>
-<p>A new Terminal may also be opened by typing Ctrl + Shift + ` on the keyboard.</p>
+<p>A new Terminal may also be opened by using Ctrl + Shift + ` hotkey.</p>
 </div>
 <p><figure markdown>
     <img src="../images/setup2.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto; max-height:150px">
 </figure></p>
 </li>
 <li>
-<p>Type the following and press enter in the newly opened <em>terminal</em>.</p>
+<p>Type the following command and press enter in the newly opened <em>terminal</em>.</p>
 <div class="admonition warning">
 <p class="admonition-title">Warining</p>
 <p>Ensure the terminal window is opened into the directory of your project or you will not publish the correct files to GitHub.</p>
 </div>
-<div class="language-js annotate highlight"><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a><span class="nx">git</span><span class="w"> </span><span class="nx">init</span>
-</span></code></pre></div>
+<blockquote>
+<p>git init</p>
+</blockquote>
 <p>The <code>git init</code> command tells git to turn the current directory open in the terminal window into a GitHub repository. Successful completion will be followed by a completion message in the terminal window.</p>
 </li>
 </ol>
@@ -454,7 +469,7 @@
 <p>When making a project, everything cannot be stored under one file! Follow the steps below to generate a new file.</p>
 <ol>
 <li>
-<p>Select the <strong>new File</strong> icon under the <em>explorer</em> tab. A new blank file will appear.</p>
+<p><strong>Click</strong> the new File icon under the <em>explorer</em> tab. A new blank file will appear.</p>
 <p><figure markdown>
     <img src="../images/setup1.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto; max-width:350px">
 </figure></p>
@@ -471,7 +486,7 @@
 <p>Often when working on larger projects it is important to group similar files into folders for better organization. Follow the steps below to generate a new folder!</p>
 <ol>
 <li>
-<p>Select the <strong>new Folder</strong> icon under the <em>explorer</em> tab. A folder will appear.</p>
+<p><strong>Click</strong> the new Folder icon under the <em>explorer</em> tab. A folder will appear.</p>
 <p><figure markdown>
     <img src="../images/setup5.jpg" alt="VS Code side bar" style="display: block;margin-left: auto;margin-right: auto; max-width: 350px">
 </figure></p>
@@ -488,10 +503,10 @@
 <p>Sometimes throughout the course of your project files of folders become redundant or no longer needed. Follow the steps below to delete a file / folder!</p>
 <ol>
 <li>
-<p>Right click the <strong>file / folder</strong> you wish to delete under the <em>explorer</em> tab. A menu will appear.</p>
+<p><strong>Right click</strong> the file / folder you wish to delete under the <em>explorer</em> tab. A menu will appear.</p>
 </li>
 <li>
-<p>Select <strong>delete</strong> in the new menu. The file / folder is now deleted!</p>
+<p><strong>Click</strong> delete in the new menu. The file / folder is now deleted!</p>
 <div class="admonition warning">
 <p class="admonition-title">Warning</p>
 <p>When deleting a file / folder VS Code deletes the file / folder permanently. Double check your actions before deleting.</p>
@@ -505,7 +520,7 @@
 <p>After making changes to your project it is time to push your changes to GitHub. This allows for a backup of your work to be saved on the web and if collaborating with others, your peers to also see the changes you made. Follow the steps below to push your changes to GitHub!</p>
 <ol>
 <li>
-<p>Open VS Code, from the upper navbar select <strong>terminal</strong> and open a new terminal. A <em>terminal</em> will appear towards the bottom of the screen.</p>
+<p>Open VS Code, from the upper navbar <strong>click</strong> terminal and open a new terminal. A <em>terminal</em> will appear towards the bottom of the screen.</p>
 <div class="admonition info">
 <p class="admonition-title">Info</p>
 <p>A new Terminal may also be opened by typing Ctrl + Shift + ` on the keyboard.</p>
@@ -516,24 +531,31 @@
 </li>
 <li>
 <p>Type the following in the newly opened terminal and press enter.</p>
-<div class="language-js annotate highlight"><pre><span></span><code><span id="__span-1-1"><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a><span class="nx">git</span><span class="w"> </span><span class="nx">add</span><span class="w"> </span><span class="p">.</span>
-</span></code></pre></div>
+<blockquote>
+<p>git add .</p>
+</blockquote>
 <p>This command will let git know which files to push to GitHub.</p>
 <div class="admonition warning">
 <p class="admonition-title">Warning</p>
 <p>Ensure the terminal window is opened within the root directory of your project or git commands may not work.</p>
 </div>
+<div class="admonition info">
+<p class="admonition-title">Info</p>
+<p>The . in the 'git add' command tells git to add all files / folders to GitHub. To add only specific files / folders, replace the . with the path to the desired file / folder.</p>
+</div>
 </li>
 <li>
 <p>Type the following into the terminal</p>
-<div class="language-js annotate highlight"><pre><span></span><code><span id="__span-2-1"><a id="__codelineno-2-1" name="__codelineno-2-1" href="#__codelineno-2-1"></a><span class="nx">git</span><span class="w"> </span><span class="nx">commit</span><span class="w"> </span><span class="o">-</span><span class="nx">m</span><span class="s2">&quot;my first commit&quot;</span>
-</span></code></pre></div>
+<blockquote>
+<p>git commit -m"my first commit"</p>
+</blockquote>
 <p>This command will add a helpful comment to describe the changes made. Replace <em>"my first commit"</em> with a helpful message detailing what changes you made.</p>
 </li>
 <li>
 <p>Type the following into the terminal</p>
-<div class="language-js annotate highlight"><pre><span></span><code><span id="__span-3-1"><a id="__codelineno-3-1" name="__codelineno-3-1" href="#__codelineno-3-1"></a><span class="nx">git</span><span class="w"> </span><span class="nx">push</span>
-</span></code></pre></div>
+<blockquote>
+<p>git push</p>
+</blockquote>
 <div class="admonition warning">
 <p class="admonition-title">Warning</p>
 <p>Ensure that your local project copy is up to date before pushing to GitHub.</p>
@@ -541,6 +563,16 @@
 <p>Congratulations! You have successfully pushed your changes onto GitHub!</p>
 </li>
 </ol>
+<h2 id="conclusion">Conclusion</h2>
+<p>In this section we covered how to set up a local project to GitHub.</p>
+<p>You should now know how to:</p>
+<ul>
+<li>Start a project from your local computer</li>
+<li>Add files to your project</li>
+<li>Add folders to your project</li>
+<li>Delete files / folders</li>
+<li>Push changes to GitHub</li>
+</ul>
 
 
 
